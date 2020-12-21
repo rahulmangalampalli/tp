@@ -10,3 +10,9 @@
 <p align="center">
   <img src="images/im2.png" width = 480>
 </p>
+
+* Even to inspect what preprocessing is applied on it, the node structure in transfer learned image is a bit confusing to deduce.
+
+<p align="center">
+  <img src="images/im3.png" width = 480>
+</p>
